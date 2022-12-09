@@ -2,7 +2,7 @@
 
 I am an undergraduate student pursuing computer science and exploring multiple domains of the field. I discovered flutter through an interest in front end development. I have written research papers and am currently under the process of writing a paper on cloud technologies. 
 
-🔭 Cloud Computing and Cyber Security are one of my few intersts.
+🔭 Cloud Computing, Machine Learning and Cyber Security are my current interests.
 
 👯 I’m looking to collaborate with Cloud Architects and DevOp enthusiasts.
 
