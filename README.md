@@ -1,11 +1,19 @@
-### Hi there 👋
+### Hi, I am Simar 👋
+
+I am an undergraduate student pursuing computer science and exploring multiple domains of the field. I discovered flutter through an interest in front end development. I have written research papers and am currently under the process of writing a paper on cloud technologies. 
+
+🔭 Cloud Computing and Cyber Security are one of my few intersts.
+
+👯 I’m looking to collaborate with Cloud Architects and DevOp enthusiasts.
+
+⚡ Fun fact: I am obsessed with Formula1 and got to know about AWS from it
 
 <!--
 **simarmehta/simarmehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Cloud Computing and Cyber Security are one of my few intersts I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
