@@ -1,6 +1,6 @@
 ### Hi, I am Simar 👋
 
-I am an undergraduate student pursuing computer science and exploring multiple domains of the field. I discovered flutter through an interest in front end development. I have written research papers and am currently under the process of writing a paper on cloud technologies. 
+I am an graduate student pursuing computer science at NYU and exploring multiple domains of the field. I discovered flutter through an interest in front end development. I have written research papers and am currently under the process of writing a paper on cloud technologies. 
 
 🔭 Cloud Computing, Machine Learning and Cyber Security are my current interests.
 
