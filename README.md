@@ -1,6 +1,6 @@
 ### Hi, I am Simar 👋
 
-I am an graduate student pursuing computer science at NYU and making advancements in the field of DevOps and SecOps. I discovered AWS through Formula1 and was  instantly intrigued and have thereon delved deeper in to cloud tech, DevOps and SecOps. On top of that I have integrated multiple technologies listed to build projects during my first semeseter at NYU. I also have research experience  since I have partaken in writing three research papers over the course of my undergraduate program.
+I am an graduate student pursuing computer science at NYU and making advancements in the field of DevSecOps and MLOps. I discovered AWS through Formula1 and was  instantly intrigued and have thereon delved deeper in to cloud tech, DevOps and SecOps. On top of that I have integrated multiple technologies listed to build projects during my first semeseter at NYU. I also have research experience  since I have partaken in writing three research papers over the course of my undergraduate program.
 
 🔭 Cloud Computing, Machine Learning and Cyber Security are my current interests.
 
