@@ -1,12 +1,11 @@
 ### Hi, I am Simar 👋
 
-I am an graduate student pursuing computer science at NYU and making advancements in the field of DevSecOps and MLOps. I discovered AWS through Formula1 and was  instantly intrigued and have thereon delved deeper in to cloud tech, DevOps and SecOps. On top of that I have integrated multiple technologies listed to build projects during my first semeseter at NYU. I also have research experience  since I have partaken in writing three research papers over the course of my undergraduate program.
+I am an computer science graduate from NYU and working on Backend/ ML. I discovered AWS through Formula1 and was instantly intrigued and have thereon delved deeper in to cloud, backend and ml.
 
 🔭 Cloud Computing, Machine Learning and Cyber Security are my current interests.
 
-👯 I’m looking to collaborate with Cloud Architects and DevOp enthusiasts.
 
-⚡ Fun fact: I am obsessed with Formula1 and got to know about AWS from it
+⚡ Fun fact: I am an Formula1 fanatic and got to know about AWS from it
 
 <!--
 **simarmehta/simarmehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
